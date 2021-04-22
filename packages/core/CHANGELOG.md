@@ -1,5 +1,11 @@
 # @dnd-kit/core
 
+## 3.0.2
+
+### Patch Changes
+
+- [`54c8778`](https://github.com/clauderic/dnd-kit/commit/54c877875cf7ec6d4367ca11ce216cc3eb6475d2) [#225](https://github.com/clauderic/dnd-kit/pull/225) Thanks [@clauderic](https://github.com/clauderic)! - Updated the `active` rects type to `ViewRect` (was previously incorrectly typed as `LayoutRect`)
+
 ## 3.0.1
 
 ### Patch Changes
